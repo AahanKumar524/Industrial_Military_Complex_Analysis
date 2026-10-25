@@ -6,7 +6,7 @@ An analysis of how major historical conflicts relate to movements in the S&P 500
 
 This project uses independently assembled datasets on historical conflicts, the S&P 500, and crude oil prices to investigate associations between geopolitical events and market behavior. The goal is to see whether major conflicts correspond with noticeable changes in stock market and oil price trends.
 
-## What I Did
+## What the Project Did
 
 - Assembled datasets on historical conflicts, S&P 500 performance, and crude oil prices
 - Cleaned and prepared the data using Python and NumPy
@@ -19,10 +19,6 @@ This project uses independently assembled datasets on historical conflicts, the 
 - **Python**
 - **NumPy** for data cleaning and correlation analysis
 - **Matplotlib** for time-series visualization
-
-## Project Presentation
-
-View the full project here: [Project Presentation (Google Slides)](https://docs.google.com/presentation/d/1qFsrKkLRv_0a166LezaaoNGnb-bfP_VJ3aG63Ss2rvk/edit?usp=sharing)
 
 ## Getting Started
 
